@@ -1,13 +1,16 @@
-🔭 Pulsar Detection Using Machine Learning
-🚀 Author:Shachipriya Pattanayak
+🔭Pulsar Detection Using Machine Learning
+
+🚀 Author: Shachipriya Pattanayak                                                                                                                                                                                
 📅 Date: March 2025
 📂 Project Type: Machine Learning for Astrophysics
 🏆 Goal: Classify pulsars using XGBoost & LSTM with advanced feature engineering
 
 🌌 Introduction
+
 Pulsars are rapidly rotating neutron stars that emit periodic radio signals. Detecting them is crucial for astrophysics, gravitational wave studies, and space navigation. Traditionally, astronomers manually analyze vast amounts of telescope data, but Machine Learning (ML) provides a faster, more efficient alternative.
 
 This project applies XGBoost and LSTM models to classify pulsars from the HTRU2 dataset, leveraging advanced feature engineering techniques such as:
+
 ✅ Fourier Transform (FFT) – Captures periodicity in frequency space.
 ✅ Wavelet Transform (CWT) – Extracts time-frequency signal variations.
 ✅ Dispersion Measure Approximation – Models signal spreading across frequencies.
@@ -23,6 +26,7 @@ Techniques used here apply to particle detection and signal processing at CERN.
 🔹 New engineered features: Fourier & wavelet transforms, dispersion measure.
 
 🛠️ Methodology
+
 1️⃣ Data Preprocessing & Feature Engineering
 ✔ Cleaned and normalized dataset.
 ✔ Applied Fourier & wavelet transforms.
